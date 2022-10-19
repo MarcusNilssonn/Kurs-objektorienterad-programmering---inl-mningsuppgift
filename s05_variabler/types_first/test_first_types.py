@@ -1,6 +1,6 @@
 
 import unittest
-from type import *
+from types_first import *
 
 assert variabel_sträng == "Hej"
 assert type(variabel_sträng) == str
